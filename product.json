@@ -1,0 +1,98 @@
+[
+    { 
+        "imageSrc": "./images/sneaker1.png",
+        "name": "Nike Air Max 95",
+        "price": 3599.99,
+        "id": 1
+    },
+    { 
+        "imageSrc": "./images/sneaker5.png",
+        "name": "Nike Air Max Dn",
+        "price": 2499.95,
+        "id": 2
+    },
+    { 
+        "imageSrc": "./images/sneaker6.png",
+        "name": "Nike Air Max Plus",
+        "price": 3599.99,
+        "id": 3
+    },
+    { 
+        "imageSrc": "./images/sneaker7.png",
+        "name": "Nike Dunk Low",
+        "price": 2099.99,
+        "id": 4
+    },
+    { 
+        "imageSrc": "./images/sneaker2.png",
+        "name": "Nike Zoom Vomero",
+        "price": 2999.99,
+        "id": 5
+    },
+    { 
+        "imageSrc": "./images/sneaker8.png",
+        "name": "Nike Air Max 1",
+        "price": 2799.95,
+        "id": 6
+    },
+    { 
+        "imageSrc": "./images/sneaker9.png",
+        "name": "Nike Air Max Plus",
+        "price": 3699.95,
+        "id": 7
+    },
+    { 
+        "imageSrc": "./images/sneaker10.png",
+        "name": "Nike Calm",
+        "price": 949.99,
+        "id": 8
+    },
+    { 
+        "imageSrc": "./images/sneaker3.png",
+        "name": "Nike Dunk Low Nature",
+        "price": 2199.99,
+        "id": 9
+    },
+    { 
+        "imageSrc": "./images/sneaker11.png",
+        "name": "Nike Calm",
+        "price": 1299.99,
+        "id": 10
+    },
+    { 
+        "imageSrc": "./images/sneaker4.png",
+        "name": "Nike Air Max Plus",
+        "price": 2099.95,
+        "id": 11
+    },
+    { 
+        "imageSrc": "./images/sneaker12.png",
+        "name": "Nike Offcourt Adjust",
+        "price": 849.99,
+        "id": 12
+    },
+    { 
+        "imageSrc": "./images/cssneaker1.png",
+        "name": "Nike Air Max Plus",
+        "price": 2699.99,
+        "id": 13
+    },
+    { 
+        "imageSrc": "./images/cssneaker2.png",
+        "name": "Nike Air Max 1",
+        "price": 2899.99,
+        "id": 14
+    },
+    { 
+        "imageSrc": "./images/cssneaker3.png",
+        "name": "Nike Air Max DN",
+        "price": 3199.95,
+        "id": 15
+    },
+    { 
+        "imageSrc": "./images/cssneaker4.png",
+        "name": "Nike SB Force 58",
+        "price": 2499.99,
+        "id": 16
+    }
+]
