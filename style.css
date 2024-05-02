@@ -665,6 +665,9 @@ footer p{
     nav .logo {
         width: 80px;
     }
+    nav {
+        height: 15vh;
+    }
 
     /* carousel */
     .backBtn, .nextBtn {
@@ -712,6 +715,10 @@ footer p{
 }
 
 @media (max-width:407px) {
+    /* nav */
+    nav {
+        height: 12vh;
+    }
     .h2 {
         font-size: 1.3rem;
     }
