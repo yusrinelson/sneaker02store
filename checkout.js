@@ -31,12 +31,13 @@ function addCartToHTML(){
                 newP.innerHTML = 
                 `<img src="${product.imageSrc}">
                 <div class="info">
-                    <div class="name">${product.name}</div>
+                    <div class="name"><p>${product.name}</p></div>
                     <div class="price">${product.price.toFixed(2)}</div>
                 </div>
                 <div class="quantity">${product.quantity}</div>
-                <div class="returnPrice">
+                <div class="returnPrice"><p>
                 R${(product.price * product.quantity).toFixed(2)}
+                </p>
                 </div>`
                 listCartHTML.appendChild(newP)
                 totalQuantity = totalQuantity + product.quantity
