@@ -682,7 +682,7 @@ footer p{
     }
     /* blog */
     .blog-header {
-        font-size: 3rem;
+        font-size: 2rem;
     }
     /* featured */
     .listProduct .sneaker-box button {
@@ -712,7 +712,7 @@ footer p{
 }
 
 @media (max-width:407px) {
-    h2 {
+    .h2 {
         font-size: 1.3rem;
     }
     /* carousel */
@@ -737,6 +737,9 @@ footer p{
     /* blog */
     .blog-box {
         height: 200px;
+    }
+    .blog-header{
+        font-size: 1.8rem;
     }
     /* featured */
 
